@@ -1,12 +1,12 @@
 import './App.css';
 import Banner from './Components/Banner';
-import { InputText } from './Components/InputText';
+import Form from './Components/Form';
 
 function App() {
   return (
     <div className="App">
       <Banner />
-      
+      <Form />
     </div>
   );
 }

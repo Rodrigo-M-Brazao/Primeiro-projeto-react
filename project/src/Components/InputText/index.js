@@ -1,3 +1,3 @@
-import { Form } from "./InputText";
+import { InputText } from "./InputText";
 
-export default Form
+export default InputText
